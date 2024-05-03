@@ -1,0 +1,1 @@
+# samy-jenkins-sonarquebe-docker
